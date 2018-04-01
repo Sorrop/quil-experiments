@@ -1,4 +1,4 @@
-(ns quill-challenges.sierpinski-triangle
+(ns quill-experiments.sierpinski-triangle
   (:require [quil.core :as q]
             [quil.middleware :as m]))
 

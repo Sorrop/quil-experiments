@@ -1,4 +1,4 @@
-(ns quill-challenges.sinusoidal-blob
+(ns quill-experiments.sinusoidal-blob
   (:require [quil.core :as q]
             [quil.middleware :as m]))
 
